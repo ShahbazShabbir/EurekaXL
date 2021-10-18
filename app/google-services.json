@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821366522139",
+    "project_id": "eureka-xl",
+    "storage_bucket": "eureka-xl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821366522139:android:dc1e901796c9c4739393be",
+        "android_client_info": {
+          "package_name": "com.eureka.xllivetv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821366522139-5njn55ooqed5avr4065eejtr02ftq3i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eureka.xllivetv",
+            "certificate_hash": "85327cbc9ee01470f47f5a8274f7fab9ff55425c"
+          }
+        },
+        {
+          "client_id": "821366522139-kvgg4ehl9hs17qc774n1v3t99eepdt7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3xgAWACPY7HWsd2YoylKQixmuCK6o5q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821366522139-kvgg4ehl9hs17qc774n1v3t99eepdt7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
